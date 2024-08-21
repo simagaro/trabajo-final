@@ -1,0 +1,72 @@
+body
+{
+    background-color:#96C9F4;
+    font-family: verdana;
+    font-size: 13pt;
+    margin-top: 2cm;
+    
+}
+table {
+    background-color:#FAFFAF;
+    color:#000000;
+    font-family: verdana ;
+    font-size: 12pt;
+    border-radius: 0px 20px;
+    box-shadow: -5px 5px 3px #5BBCFF;
+    padding: 17px;
+
+
+}
+.titulo
+{
+    background-color:#FAFFAF;
+    font-family: verdana;
+    font-size: 20pt;
+    font-weight: bold;
+    border-radius: 0px 20px;
+}
+
+a:link
+{
+  font-family: tahoma;
+  font-size :14pt;
+  text-decoration: none ;
+  color: #5C2FC2;
+}
+a:active
+{
+font-family: tahoma; 
+font-size: 14pt;  
+text-decoration: none; 
+color:#5C2FC2;
+
+}
+a :visited 
+{
+    font-family: tahoma ;
+    font-size: 14pt;
+    text-decoration: none;
+    color:#00DFA2;
+}
+a:hover 
+{
+    font-size: 20px;
+    color :#003285;
+}
+button{
+    background-color: #00DFA2;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border-radius: 10px;
+}
+footer{
+    
+        display: flex;
+        justify-content: flex-end;
+        padding: 2px;
+        position: fixed;
+        bottom: 0;
+        width: 98%;
+        background-color:aquamarine;
+    
+
+}
